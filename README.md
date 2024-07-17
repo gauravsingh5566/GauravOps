@@ -26,10 +26,10 @@
 
 <hr/>
 
-<a name="Welcome to AizzOps"></a>
+<a name="Welcome to GauravOps"></a>
 
-# Welcome to AizzOps 👋
-Welcome to AizzOps! Azfar's personal portfolio website showcases his journey and projects in DevOps. Here, you'll find detailed information about his skills, experiences, and the various projects he's worked on. Feel free to explore and connect with him!
+# Welcome to GauravOps 👋
+Welcome to GauravOps! Gaurav's personal portfolio website showcases his journey and projects in DevOps. Here, you'll find detailed information about his skills, experiences, and the various projects he's worked on. Feel free to explore and connect with him!
 
 <a name="demo"></a>
 ## 👩‍💻 Live demo 
@@ -65,7 +65,7 @@ Fixing project issues, will share portfolio link soon after deploy. Check back l
 
 ## About me 🔍
 
-I am Azfar Alam, a DevOps Engineer passionate about integrating technologies and enhancing the DevOps journey. As the founder of HelpOps-Hub, I created a platform to share solutions and prevent others from struggling with DevOps errors. I specialize in Linux, Kubernetes, AWS, Docker, Jenkins, and more, constantly seeking to upskill and innovate in the DevOps industry.
+I am Gaurav Singh, a DevOps Engineer passionate about integrating technologies and enhancing the DevOps journey. As the founder of HelpOps-Hub, I created a platform to share solutions and prevent others from struggling with DevOps errors. I specialize in Linux, Kubernetes, AWS, Docker, Jenkins, and more, constantly seeking to upskill and innovate in the DevOps industry.
 
 <!----------------    Skills                ----------------------------------------------------------------------------------->
 
